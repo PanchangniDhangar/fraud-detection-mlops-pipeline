@@ -83,7 +83,7 @@ The project bridges the gap between Data Science and ML Engineering by wrapping 
 ## Docker Deployment (Recommended)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/fraud-detection-mlops-pipeline.git
+git clone https://github.com/PanchangniDhangar/fraud-detection-mlops-pipeline.git
 cd fraud-detection-mlops-pipeline
 docker build -t fraud-app .
 docker run -p 8000:8000 fraud-app
@@ -148,7 +148,5 @@ Tests validate:
 ##  Summary
 
 Fraud-Sentinel-MLOps is a full-stack, explainable, production-ready ML system that demonstrates how modern data science, software engineering, and MLOps come together to solve real-world financial problems.
-
-It goes beyond prediction — it explains, validates, and deploys intelligence responsibly.
 
 ---
