@@ -1,4 +1,5 @@
-# Fraud-detection-mlops-pipeliene: Full-Stack Explainable Fraud Detection
+# Fraud-detection-mlops-pipeliene: 
+Full-Stack Explainable Fraud Detection
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20on%20Render-brightgreen)](https://fraud-detection-mlops-pipeline.onrender.com)
 [![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
