@@ -30,6 +30,9 @@ The project bridges the gap between Data Science and ML Engineering by wrapping 
 - **Validation:** Automated **Unit Testing** with Pytest to ensure API contract reliability.
 
 ## 4. High-Performance API
+
+<img width="1334" height="567" alt="image" src="https://github.com/user-attachments/assets/fdb4a0b0-ec93-45ed-bcea-27f09ee1c5fd" />
+
 - Built with **FastAPI** for asynchronous request handling.
 - **Pydantic** data validation ensures that only correctly formatted transaction data is processed.
 - **CORS Middleware** configured for secure frontend-backend communication.
