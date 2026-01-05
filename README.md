@@ -7,7 +7,7 @@ Full-Stack Explainable Fraud Detection
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ##  Project Overview
-**Fraud-Sentinel-MLOps** is a production-grade, end-to-end machine learning solution designed to identify fraudulent credit card transactions in real-time. Unlike "black-box" models, this system integrates **SHAP (SHapley Additive exPlanations)** to provide feature-level transparency for every decision.
+**Fraud-Detection-MLOps** is a production-grade, end-to-end machine learning solution designed to identify fraudulent credit card transactions in real-time. Unlike "black-box" models, this system integrates **SHAP (SHapley Additive exPlanations)** to provide feature-level transparency for every decision.
 
 The project bridges the gap between Data Science and ML Engineering by wrapping a high-performance **XGBoost** model in a **FastAPI** microservice, containerized with **Docker**, and presented through an interactive **Tailwind CSS** dashboard.
 
